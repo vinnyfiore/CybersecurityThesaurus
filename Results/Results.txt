@@ -1,0 +1,15 @@
+Encryption: apple, backdoor, ransomware, security, disk, algorithm, block, WhatsApp, backdoor, government, crypto, privacy, iMessage, email, blowfish, Skype, China, Paris, GCHQ, terrorist, flaw, dark, financial, rigek, surveillance
+
+Ransomware: Attack, Cerber, Wannacry, Petya, Locky, spread, extension, malware, Bitcoin, Security, Android, campaign, victim, target, threat, data, Rigek, Update, Ukraine, Wallet, EITest, exploit, police, Cryptxxx, payment
+
+DDoS: Attack, Botnet, bank, malware, Mirai, internet, wirex, extoion, launch, website, service, outage, security, Korea, PseudoDarkLeech, National, Gang, Wrath, Krebs, neutrality, anonymous, downtime, disrupt, Korean, Russian
+
+Phishing: Email, Site, Google, Campaign, Link, Attack, Target, Hancitor, Repo, Gmail, Page, Fake, Spam, Malware, Message, User, Suspicious, Breach, Webmail, Address, Login, Doc, Phish, Domain, Engineering
+
+Vulnerability: Patch, Management, Security, Exploit, Microsoft, code, disclosure, Attack, Update, Execution, device, hacker, Android, Remediation, System, Window, world, hack, Wordpress, firmware, InsightVM, research, Remote, Google, Thesas
+
+Hacker: Steal, Russian, Hack, Data, Security, attack, Malware, account, hijack, email, target, bank, flaw, leak, government, arrest, stole, password, state, election, Equifax, Trump, group, database, anonymous
+
+Backdoor: Attack, malware, encryption, crypto, software, CCleaner, Chain, Juniper, government, target, supply, share, update, Network, Group, security, code, downloads, attacker, link, company, DFIR, Dutch, server, Wannacry
+
+Malware: PCAP, malspam, target, bank, banking, hacker, hack, rigged, spam, email, exploit, ransomware, elitist, infect, russian, angler, thesas, ccleaner, cisco, wannacry, dridex, kaspersky, gootkit, government, kronos
